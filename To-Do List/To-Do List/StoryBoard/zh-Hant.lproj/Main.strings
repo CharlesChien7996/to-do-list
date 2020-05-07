@@ -1,0 +1,39 @@
+
+/* Class = "UITextField"; placeholder = "輸入標題"; ObjectID = "1NZ-5H-f4v"; */
+"1NZ-5H-f4v.placeholder" = "輸入標題";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5lm-Ra-2Ty"; */
+"5lm-Ra-2Ty.text" = "Label";
+
+/* Class = "UILabel"; text = "標題"; ObjectID = "7sn-TT-XaK"; */
+"7sn-TT-XaK.text" = "標題";
+
+/* Class = "UINavigationItem"; title = "To-Do"; ObjectID = "BgG-oY-ueo"; */
+"BgG-oY-ueo.title" = "To-Do";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bt8-JM-LGk"; */
+"Bt8-JM-LGk.text" = "Label";
+
+/* Class = "UILabel"; text = "描述"; ObjectID = "Egy-SB-BMh"; */
+"Egy-SB-BMh.text" = "描述";
+
+/* Class = "UILabel"; text = "日期"; ObjectID = "Q0z-lU-Cov"; */
+"Q0z-lU-Cov.text" = "日期";
+
+/* Class = "UITextView"; text = "輸入描述"; ObjectID = "bkT-Lx-2LT"; */
+"bkT-Lx-2LT.text" = "輸入描述";
+
+/* Class = "UINavigationItem"; title = "New"; ObjectID = "dLN-jS-xKa"; */
+"dLN-jS-xKa.title" = "New";
+
+/* Class = "UITextField"; placeholder = "選擇日期"; ObjectID = "fuO-rg-RPI"; */
+"fuO-rg-RPI.placeholder" = "選擇日期";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gDx-5y-k8I"; */
+"gDx-5y-k8I.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "plK-aH-Ysh"; */
+"plK-aH-Ysh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vNE-Uo-Rf4"; */
+"vNE-Uo-Rf4.text" = "Label";
